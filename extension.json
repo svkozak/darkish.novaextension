@@ -1,0 +1,11 @@
+{
+    "identifier": "ca.maybelater.Darkish",
+    "name": "Darkish",
+    "organization": "Sergii Kozak",
+    "description": "Based on VSCode Dark+ theme.",
+    "repository": "https://github.com/svkozak/darkish.novaextension",
+    "bugs": "https://github.com/svkozak/darkish.novaextension/issues",
+    "version": "1.0",
+    "categories": ["themes"],
+    "license": "MIT"
+}
