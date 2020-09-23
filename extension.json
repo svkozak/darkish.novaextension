@@ -5,7 +5,7 @@
     "description": "Based on VSCode Dark+ theme.",
     "repository": "https://github.com/svkozak/darkish.novaextension",
     "bugs": "https://github.com/svkozak/darkish.novaextension/issues",
-    "version": "1.0",
+    "version": "1.0.1",
     "categories": ["themes"],
     "license": "MIT"
 }
