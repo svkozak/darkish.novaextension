@@ -111,6 +111,11 @@ meta.gutter.selected {
 keyword {
     color: #569cd6;
 }
+
+keyword.export, keyword.return {
+    color: #C586C0;
+}
+
 comment {
     color: #5f9c4b;
 }
@@ -132,7 +137,6 @@ invalid {
 }
 link {
     color: #66b3ff;
-
 }
 
 /* Values */
@@ -153,6 +157,10 @@ value.symbol {
 }
 
 /* Identifiers */
+identifier {
+    color: #4FC1FF;
+}
+
 identifier.type,
 identifier.decorator {
     color: #4EC9B0;
@@ -160,6 +168,7 @@ identifier.decorator {
 identifier.constant {
     color: #4FC1FF;
 }
+
 identifier.global,
 identifier.variable {
     color: #9CDCFE;
